@@ -35,6 +35,8 @@ Cognitive Code Analyser is a personal learning tool designed to help programmers
 - **Styling**: Tailwind CSS
 - **AI Backend**: Gemini API (Free Tier)
 - **Storage**: LocalStorage (browser-based, no server required)
+## Website(Recommended way of using)
+https://coginitive-code-analyser-8.vercel.app/
 
 ## Installation
 
@@ -105,3 +107,4 @@ Built by **Akshay Gupta Burela**
 ## License
 
 MIT License
+
